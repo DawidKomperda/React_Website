@@ -30,7 +30,8 @@ const Hero = () => {
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           our team of experts uses a methodologyto identify the credit cards most likely to fir your needs.
-          We examine annual percentage rates, fees, rewards, and other factors to find the best cards for you.        </p>
+          We examine annual percentage rates, fees, rewards, and other factors to find the best cards for you.
+        </p>
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
